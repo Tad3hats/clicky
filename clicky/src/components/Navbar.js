@@ -4,9 +4,9 @@ const Navbar = props => (
     <div className="Navbar">
         <div className="title">{props.children}</div>
         <div className="scores">
-            Current Score: {props.score}
-            <br />
-            HighScore: {props.topscore}
+            Current Score: {props.score} 
+            <br />   
+            HighScore: {props.topScore}
         </div>
     </div>
 );
