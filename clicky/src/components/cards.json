@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Giannis",
+      "image": "https://usatftw.files.wordpress.com/2017/10/usp_nba__preseason-milwaukee_bucks_at_chicago_bull_94389403.jpg?w=1000&h=600&crop=1"
+    },
+    {
+      "id": 2,
+      "name": "Kyrie",
+      "image": "https://cdn.vox-cdn.com/thumbor/dRwmZGV3ey7YFS-bKzT9B6RwuN0=/0x0:3267x2178/1200x800/filters:focal(1373x828:1895x1350)/cdn.vox-cdn.com/uploads/chorus_image/image/60471391/usa_today_10702185.0.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dirk",
+      "image": "https://media.brstatic.com/2016/04/07083200/highest-paid-nba-players-2016-9-dirk-nowitzki.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Steph",
+      "image": "https://specials-images.forbesimg.com/imageserve/693611404/960x0.jpg?fit=scale"
+    },
+    {
+      "id": 5,
+      "name": "Shaq",
+      "image": "http://static4.uk.businessinsider.com/image/56be3c65dd089558068b4723/the-25-highest-paid-nba-players-of-all-time.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Love",
+      "image": "https://www.simplemost.com/wp-content/uploads/2018/03/900525974_kevin-love-1-750x500.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Durant",
+      "image": "https://amp.businessinsider.com/images/5a9db91502957d1d008b46a8-750-375.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Harden",
+      "image": "https://i.ytimg.com/vi/3KdYLBeGa7U/maxresdefault.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Reggie",
+      "image": "https://www.gannett-cdn.com/-mm-/e916bdc47123d82062379b806709e16d691d0c72/c=0-0-1646-1237/local/-/media/2017/06/22/INGroup/Indianapolis/636337476676967611-20-PACERS03.95210.jpg?width=534&height=401&fit=crop"
+    },
+    {
+      "id": 10,
+      "name": "Javale",
+      "image": "http://www.trbimg.com/img-5acd4a7b/turbine/ct-spt-nba-player-wingspan-20180410"
+    },
+    {
+      "id": 11,
+      "name": "Davis",
+      "image": "https://cdn.vox-cdn.com/thumbor/hSlqEmRdoRvRhh4G0fPfqEYpJUA=/0x0:3922x2615/1200x800/filters:focal(1648x995:2274x1621)/cdn.vox-cdn.com/uploads/chorus_image/image/51083351/usa-today-9559181.0.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Charles",
+      "image": "https://sportshub.cbsistatic.com/i/r/2017/07/17/2a77f103-f1d5-46da-bc82-c23cc02f6128/crop/1048x788+197+0/resize/770x575/8bad3f4b395bc40dd5bcc137b0edff8e/charlesbarkley-071717.jpg"
+    }
+  ]
